@@ -26,6 +26,8 @@ The below could be Requirement for the App BookMyshow.
   	==>Type of seat provide to customer
    	==>offer
     	==>screen size/theater Information
+     	==>Type of screen 2d/3D/Dolby
+      	==>No of screen
      	==>Payment confirmation
 
 3)System:
