@@ -5,21 +5,24 @@
 The below could be Requirement for the App BookMyshow.
 
 # User/Client:
-1.Search the moview based on..
-	- Language
- 	- Bollywood/Holywood/Tollywood
-  	- 2D/3D screen
-       ==>Book Tikcet
-       		a)Selection of Seat
-	 	b)Selection of Theatre
-   		c)Selection of Time
-     		d)Type of Seat like gold,normal,classic
-       		e)Payment method like netbanking, debit/credit,UPI
-	 	f)Notification message
-   		g)order of Beverage/snacks
-     	==>Cancel Ticket
-      	==>Availabilty of Ticket.
-       	==>review
+
+1.Search the moview based on....
+a) Language
+b) Bollywood/Holywood/Tollywood
+c) 2D/3D screen
+
+2. Book Tikcet
+a) Selection of Seat
+b) Selection of Theatre
+c) Selection of Time
+d) Type of Seat like gold,normal,classic
+e) Payment method like netbanking, debit/credit,UPI
+f) Notification message
+g) order of Beverage/snacks
+
+3. Cancel Ticket
+4. Availabilty of Ticket.
+5. review
 
 2)Theator Partner:
 	==>List of movie
