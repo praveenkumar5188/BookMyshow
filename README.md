@@ -5,50 +5,50 @@
 The below could be Requirement for the App BookMyshow.
 
 # User/Client:
-
-1.Search the moview based on....
-a) Language
-b) Bollywood/Holywood/Tollywood
-c) 2D/3D screen
+1. Search the moview based on....
+	- Language
+	- Bollywood/Holywood/Tollywood
+	- 2D/3D screen
 
 2. Book Tikcet
-a) Selection of Seat
-b) Selection of Theatre
-c) Selection of Time
-d) Type of Seat like gold,normal,classic
-e) Payment method like netbanking, debit/credit,UPI
-f) Notification message
-g) order of Beverage/snacks
+	- Selection of Seat
+	- Selection of Theatre
+	- Selection of Time
+	- Type of Seat like gold,normal,classic
 
-3. Cancel Ticket
-4. Availabilty of Ticket.
-5. review
+3. Payment method like netbanking, debit/credit,UPI
+4. Notification message
+5. order of Beverage/snacks
+6. Cancel Ticket
+7. Availabilty of Ticket.
+8. review
 
-2)Theator Partner:
-	==>List of movie
- 	==>timing
-  	==>Type of seat provide to customer
-   	==>offer
-    	==>screen size/theater Information
-     	==>Type of screen 2d/3D/Dolby
-      	==>No of screen
-     	==>Payment confirmation
+# Theator Partner:
+- List of movie
+- timing
+- Type of seat provide to customer
+- offer
+- screen size/theater Information
+- Type of screen 2d/3D/Dolby
+- No of screen
+- Payment confirmation
+- Location
 
-3)System:
-	==>Type of ticket based on..
- 		a)movie
-   		b)Sports
-     		c)Comedy show
-       ==>Validation of Ticket timing
-       ==>Customer care support
-       ==>offer
-       ==>Price calculation based on seat category
-       ==>Bill Generation
-       ==>Acquire the seat availability based on theater Input.
-       ==>wallet
-       ==>Software update
+# System:
+1. Type of ticket based on..
+	- movie
+ 	- Sports
+	- Comedy show
+2. Validation of Ticket timing
+3. Customer care support
+4. offer
+5. Price calculation based on seat category
+6. Bill Generation
+7. Acquire the seat availability based on theater Input.
+8. wallet
+9. Software update
        
-4)Common Features:
-	==>Register/login
- 	==>Feedback
-  	==>status
+# Common Features:
+- Register/login
+- Feedback
+- status
