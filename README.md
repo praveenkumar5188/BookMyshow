@@ -1,13 +1,14 @@
 # BookMyshow
-it will provide the LLD of bookmyshow application
+
+## Requirement Gathering for LLD Design
 
 The below could be Requirement for the App BookMyshow.
 
-1)User/Client:
-	==>Search the moview based on..
- 		a)Language
-   		b)Bollywood/Holywood/Tollywood
-     		c)2D/3D screen
+# User/Client:
+1.Search the moview based on..
+	- Language
+ 	- Bollywood/Holywood/Tollywood
+  	- 2D/3D screen
        ==>Book Tikcet
        		a)Selection of Seat
 	 	b)Selection of Theatre
