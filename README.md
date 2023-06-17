@@ -2,6 +2,7 @@
 it will provide the LLD of bookmyshow application
 
 The below could be Requirement for the App BookMyshow.
+
 1)User/Client:
 	==>Search the moview based on..
 		a)Language
